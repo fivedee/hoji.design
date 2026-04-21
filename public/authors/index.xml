@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on hoji.design</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on hoji.design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dummyemail@example.com (Noelle &#34;Hoji&#34; Dee)</managingEditor>
+    <webMaster>dummyemail@example.com (Noelle &#34;Hoji&#34; Dee)</webMaster>
+    <copyright>© 2026 Noelle &#34;Hoji&#34; Dee</copyright>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
